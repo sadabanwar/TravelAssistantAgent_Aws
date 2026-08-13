@@ -4,3 +4,7 @@ __pycache__/
 .env
 stock_summary.txt
 .ipynb_checkpoints/
+.venv2/
+.venv*
+.DS_Store
+.vscode/
