@@ -1,4 +1,4 @@
-"""Module 2 · Lesson 7 — AWS integration with use_aws.
+"""— AWS integration with use_aws.
 
 One tool, many services. use_aws translates plain English into AWS API calls.
 You don't write boto3 code, don't handle AWS responses, and don't even
@@ -10,7 +10,7 @@ An empty list is a valid result, not an error.
 use_aws CAN modify real resources. In a class, demo read-only requests only,
 on a sandbox account.
 
-    python shivank2/07_use_aws.py
+    python shadab2/07_use_aws.py
 """
 
 import sys, os
