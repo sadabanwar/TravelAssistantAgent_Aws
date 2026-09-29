@@ -1,4 +1,4 @@
-"""Module 1 · Lesson 2 — Same idea in LangGraph, WITH a tool.
+""" — Same idea in LangGraph, WITH a tool.
 
 Strands isn't the only framework. This uses LangGraph and adds a small tool,
 so you can watch the agentic loop actually loop.
