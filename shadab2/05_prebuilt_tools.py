@@ -1,10 +1,10 @@
-"""Module 2 · Lesson 5 — Pre-built community tools.
+""" Pre-built community tools.
 
 You don't have to write everything. strands_tools ships ready-made tools.
 This also introduces the SYSTEM PROMPT: standing instructions that shape
 the agent's behaviour on every request.
 
-    python shivank2/05_prebuilt_tools.py
+    python shadab2/05_prebuilt_tools.py
 """
 
 import sys, os
