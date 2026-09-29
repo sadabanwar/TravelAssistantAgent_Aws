@@ -1,4 +1,4 @@
-"""Module 2 · Lesson 3 — When one tool isn't enough.
+"""When one tool isn't enough.
 
 "Pull last quarter's sales data and email a summary to the team" is not one
 task. It's three: query, analyse, send.
@@ -6,7 +6,7 @@ task. It's three: query, analyse, send.
 You give the agent three small tools. You NEVER tell it the order.
 It works out: get data -> analyse it -> email the result. That's planning.
 
-    python shivank2/03_multi_tool_sales.py
+    python shadab2/03_multi_tool_sales.py
 """
 
 import sys, os
