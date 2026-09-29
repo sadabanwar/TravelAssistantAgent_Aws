@@ -1,4 +1,4 @@
-"""Module 1 · Lesson 1 — The simplest possible agent (Strands + Bedrock).
+""" — The simplest possible agent (Strands + Bedrock).
 
 Four lines is a whole agent:
   1. choose a model
