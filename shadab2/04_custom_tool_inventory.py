@@ -1,4 +1,4 @@
-"""Module 2 · Lesson 4 — Building a custom tool.
+""" Building a custom tool.
 
 When community tools don't fit (internal API, proprietary database), you
 write your own. Here: an online store checking stock.
@@ -6,7 +6,7 @@ write your own. Here: an online store checking stock.
 The mock dictionary stands in for a real database. The agent-facing part —
 decorator, type hints, docstring — is identical either way.
 
-    python shivank2/04_custom_tool_inventory.py
+    python Shadab2/04_custom_tool_inventory.py
 """
 
 import sys, os
