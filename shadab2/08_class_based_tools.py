@@ -1,4 +1,4 @@
-"""Module 2 · Lesson 8 — Class-based tools (the shared-resource pattern).
+"""— Class-based tools (the shared-resource pattern).
 
 THE PROBLEM:
 Your DBA messages you: "Why is your agent opening 50 database connections
@@ -9,7 +9,7 @@ THE FIX:
 Group related tools in a class. They share ONE connection (here, one dict)
 via self, created once in __init__.
 
-    python shivank2/08_class_based_tools.py
+    python shadab2/08_class_based_tools.py
 """
 
 import sys, os
