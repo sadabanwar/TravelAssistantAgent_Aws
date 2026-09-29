@@ -1,9 +1,9 @@
-"""Module 2 · Lesson 2 — Your first tool-enabled agent: a tip calculator.
+""" — Your first tool-enabled agent: a tip calculator.
 
 Shows that the agent understands INTENT, not keywords. All three phrasings
 at the bottom work without any extra code — no regex, no intent classifier.
 
-    python shivank2/02_tip_calculator.py
+    python shadab2/02_tip_calculator.py
 """
 
 import sys, os
