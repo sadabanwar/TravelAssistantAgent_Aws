@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Setup — Future with Shivank AI Agents masterclass (macOS/Linux).  Run from this folder:   ./setup.sh
+# Setup — Future with Shadab AI Agents masterclass (macOS/Linux).  Run from this folder:   ./setup.sh
 set -e
 
 PYTHON=${PYTHON:-python3}
