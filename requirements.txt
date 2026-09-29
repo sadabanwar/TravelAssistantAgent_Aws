@@ -1,4 +1,4 @@
-# Future with Shivank — AI Agents on AWS masterclass
+# Future with Shadab— AI Agents on AWS masterclass
 strands-agents
 strands-agents-tools
 boto3
