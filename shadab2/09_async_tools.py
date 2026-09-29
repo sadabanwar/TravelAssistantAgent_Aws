@@ -1,4 +1,4 @@
-"""Module 2 · Lesson 9 — Async tools (parallel execution).
+""" Async tools (parallel execution).
 
 THE PROBLEM:
 Three warehouse lookups at 2 seconds each = 6 seconds if done one by one.
@@ -9,7 +9,7 @@ PARALLEL, so the whole thing takes about 2 seconds instead of 6.
 
 WATCH THE PRINTED TIMING at the end — that IS the lesson.
 
-    python shivank2/09_async_tools.py
+    python shadabk2/09_async_tools.py
 """
 
 import sys, os
